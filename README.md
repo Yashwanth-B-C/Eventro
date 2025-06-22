@@ -2,6 +2,7 @@ ________________________________________
 Eventro: Your AI-Powered Event Planning & Organizer Booking Platform
 ________________________________________
 About Eventro
+
 Eventro is a comprehensive and innovative event management platform designed to simplify the entire event planning process for customers. Built with a modern tech stack including HTML, CSS, JavaScript, and Node.js, Eventro connects customers with professional Event Organizers for various occasions, including Weddings, Birthdays, and Business Events.
 What sets Eventro apart is its integrated AI Assistant, which provides intelligent support throughout your event journey:
 •	Outfit Suggestions: Get personalized outfit recommendations by analyzing a person's personality and appearance from an uploaded image.
